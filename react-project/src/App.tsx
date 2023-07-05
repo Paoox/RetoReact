@@ -4,7 +4,7 @@ function App() {
   return (
     <main>
       <section>
-        <sideListings />
+        <SideListings></SideListings>
       </section>
     </main>
   );
