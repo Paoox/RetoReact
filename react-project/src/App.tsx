@@ -1,4 +1,5 @@
 import SideListings from "./components/sideListings";
+import FooterDev from "./components/footer";
 
 function App() {
   return (
@@ -6,6 +7,9 @@ function App() {
       <section>
         <SideListings></SideListings>
       </section>
+      <footer>
+        <FooterDev></FooterDev>
+      </footer>
     </main>
   );
 }

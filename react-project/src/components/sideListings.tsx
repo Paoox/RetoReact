@@ -1,7 +1,7 @@
 export default function SideListings() {
   return (
     <div className=" flex-row w-80 border rounded-md h-auto justify-between m-3">
-      <header className="flex align-middle justify-between p-1 m-2 border-b-2">
+      <header className="flex align-middle justify-between pb-2 m-2 border-b-2">
         <h3 className="font-bold text-lg">Listings</h3>
         <div>
           <a href="" className="text-blue-700 font-semibold text-xs">
@@ -27,21 +27,21 @@ export default function SideListings() {
             <div className="font-light text-sm m-1">collabs</div>
           </a>
         </div>
-        <div className="border-b">
-          <a href="" className="p-1">
+        <div className="border-b flex justify-center align-middle p-1">
+          <a href="" className="pt-1">
             <div>
               Not Another Virtual Hackathon (NAVH), presented by Consensys
             </div>
             <div className="font-light text-sm m-1">events</div>
           </a>
         </div>
-        <div className="border-b">
+        <div className="border-b p-1 flex align-middle mt-4 mb-4">
           <a href="">
             <div>IP2Location Programming Contest 2023</div>
             <div className="font-light text-sm m-1">events</div>
           </a>
         </div>
-        <div className="border-b">
+        <div className="mb-3">
           <a href="">
             <div>Learn React & Next.js and Boost Your Career 🚀</div>
             <div className="font-light text-sm m-1">eduaction</div>
@@ -51,7 +51,7 @@ export default function SideListings() {
           href=""
           className="flex align-middle justify-center font-semibold text-sm pt-2 border-t-2"
         >
-          Create Listing
+          Create a Listing
         </a>
       </div>
     </div>
