@@ -1,4 +1,3 @@
 <h1 align="center"> React challenge: Devto clone </h1>
-![React tool library](https://interacso.com/blog/wp-content/uploads/2019/05/reactluminoso.png)
-[![React](https://vsmarketplacebadges.dev/React/publishername.extensionname.svg)](https://marketplace.visualstudio.com/items?itemName=publishername.extensionname)
-[![Vite](https://vsmarketplacebadges.dev/Vite/publishername.extensionname.svg)](https://marketplace.visualstudio.com/items?itemName=publishername.extensionname)
+<a href="https://legacy.reactjs.org/"><img alt="Static Badge" src="https://img.shields.io/badge/react-18.2.0-blue?logo=react&labelColor=blue&color=gray">
+</a>
