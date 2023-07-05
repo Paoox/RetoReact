@@ -1,6 +1,6 @@
 export default function PostCard() {
   return (
-    <section className="flex flex-row full-card w-1/3 rounded-lg bg-dev-to-card-color">
+    <section className="flex flex-row full-card  rounded-lg bg-dev-to-card-color">
       <a className="ancor-card" href="#">
         <div className="img-top">
           <a href="#">
@@ -11,9 +11,9 @@ export default function PostCard() {
             ></img>
           </a>
         </div>
-        <div className="card-content">
-          <div className="flex">
-            <div className="w-[3rem] ms-5 mt-2 profile-picture">
+        <div className="card-content p-5">
+          <div className="flex flex-wrap h-3/6">
+            <div className="w-[3rem]  profile-picture">
               <div>
                 <a>
                   <img
@@ -24,39 +24,46 @@ export default function PostCard() {
                 </a>
               </div>
             </div>
-            <div className="flex gap-1 items-center user-creator">
-              <p className="font-semibold text-sm">Thomas Alger</p>
-              <span className="text-sm">for</span>
-              <p className="font-semibold text-sm">AWS Community Services</p>
+            <div className=" gap-1 ps-2 mt-1 items-center user-creator">
+              <div className="flex">
+                <p className="font-semibold text-sm ">Thomas Alger for</p>
+                <p className="font-semibold text-sm ">AWS Community Services</p>
+              </div>
+              <a>7 days ago</a>
             </div>
-          </div>
-          <div className="ms-[4.5rem]">
-            <small>7 days ago</small>
           </div>
           <div className="reactions-container">
-            <h2 className="font-extrabold text-3xl mx-8 pb-3 ">
-              Este es el titulo del post 🦄
+            <h2 className="font-extrabold text-3xl mx-9  pb-3 ">
+              🦄 Building a pricing page with NextJS 🤯 🤯
             </h2>
-            <div className="flex gap-5 ms-8 py-2 post-tags text-sm">
-              <a>#tag1</a>
-              <a>#tag2</a>
-              <a>#tag3</a>
+            <div className="flex gap-5 ms-10 py-2 post-tags text-sm">
+              <a>
+                <span className="text-amber-400">#</span>tag1
+              </a>
+              <a>
+                <span className="text-green-800">#</span>tag2
+              </a>
+              <a>
+                <span className="text-violet-700">#</span>tag3
+              </a>
             </div>
-            <div className="flex gap-5 justify-evenly pb-5 emojis-comments text-sm pe-8">
-              <a href="#" className="emojis-comments__colection">
-                <div className="emojis-comments__colection--emojis">
-                  <span>❤</span>
-                  <span>🙌</span>
-                  <span>🔥</span>
-                  <span>15 reactions</span>
-                </div>
-              </a>
-              <a className="emojis-comments__comments">
-                <div className="flex">
-                  <span>💭</span>
-                  <p>23 comments</p>
-                </div>
-              </a>
+            <div className="flex ms-10 py-4 justify-between emojis-comments text-sm">
+              <div className="flex gap-5">
+                <a href="#" className="emojis-comments__colection">
+                  <div className="emojis-comments__colection--emojis">
+                    <span className="bg-slate-300  rounded-full">❤</span>
+                    <span className="bg-slate-300  rounded-full">🙌</span>
+                    <span className="bg-slate-300  rounded-full">🔥</span>
+                    <span className="ps-3">15 reactions</span>
+                  </div>
+                </a>
+                <a className="emojis-comments__comments">
+                  <div className="flex">
+                    <span>💭</span>
+                    <p className="ps-2">23 comments</p>
+                  </div>
+                </a>
+              </div>
               <div>
                 <small>11 min read</small>
                 <a href="#">📒</a>
