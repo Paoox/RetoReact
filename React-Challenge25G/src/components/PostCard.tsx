@@ -25,24 +25,24 @@ export default function PostCard() {
               </div>
             </div>
             <div className="flex gap-1 items-center user-creator">
-              <p className="font-semibold ">Thomas Alger</p>
-              <span>for</span>
-              <p className="font-semibold ">AWS Community Services</p>
+              <p className="font-semibold text-sm">Thomas Alger</p>
+              <span className="text-sm">for</span>
+              <p className="font-semibold text-sm">AWS Community Services</p>
             </div>
           </div>
-          <div>
-            <small className="ms-[4.5rem]">7 days ago</small>
+          <div className="ms-[4.5rem]">
+            <small>7 days ago</small>
           </div>
           <div className="reactions-container">
-            <h2 className="font-extrabold text-5xl mx-8 pb-3 ">
+            <h2 className="font-extrabold text-3xl mx-8 pb-3 ">
               Este es el titulo del post 🦄
             </h2>
-            <div className="flex gap-5 ms-8 py-2 post-tags">
+            <div className="flex gap-5 ms-8 py-2 post-tags text-sm">
               <a>#tag1</a>
               <a>#tag2</a>
               <a>#tag3</a>
             </div>
-            <div className="flex gap-5 w-1/2 emojis-comments">
+            <div className="flex gap-5 justify-evenly pb-5 emojis-comments text-sm pe-8">
               <a href="#" className="emojis-comments__colection">
                 <div className="emojis-comments__colection--emojis">
                   <span>❤</span>
@@ -52,15 +52,15 @@ export default function PostCard() {
                 </div>
               </a>
               <a className="emojis-comments__comments">
-                <div>
+                <div className="flex">
                   <span>💭</span>
                   <p>23 comments</p>
                 </div>
               </a>
-            </div>
-            <div>
-              <small>11 min read</small>
-              <a href="#">📒</a>
+              <div>
+                <small>11 min read</small>
+                <a href="#">📒</a>
+              </div>
             </div>
           </div>
         </div>
