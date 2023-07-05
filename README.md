@@ -1,1 +1,1 @@
-<h1 align="center"> Su título aquí </h1>
+<h1 align="center" style="background-color=blue"> React challenge: Devto clone </h1>
