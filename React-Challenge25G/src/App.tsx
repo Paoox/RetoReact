@@ -9,13 +9,12 @@ function App() {
       <main className="flex columns-3 ">
         <aside className="flex w-1/3">#</aside>
         <PostCard />
-        <aside className="flex w-1/3">#</aside>
-        <section>
-        <SideListings></SideListings>
-      </section>
+        <aside className="flex w-1/3">
+          <SideListings />
+        </aside>
       </main>
       <footer>
-        <FooterDev></FooterDev>
+        <FooterDev />
       </footer>
     </>
   );
