@@ -1,4 +1,6 @@
 import PostCard from "./components/PostCard";
+import SideListings from "./components/sideListings";
+import FooterDev from "./components/footer";
 
 function App() {
   return (
@@ -8,7 +10,13 @@ function App() {
         <aside className="flex w-1/3">#</aside>
         <PostCard />
         <aside className="flex w-1/3">#</aside>
+        <section>
+        <SideListings></SideListings>
+      </section>
       </main>
+      <footer>
+        <FooterDev></FooterDev>
+      </footer>
     </>
   );
 }
