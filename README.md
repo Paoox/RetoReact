@@ -63,12 +63,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/status-Developing-gray?logoColor=white&label=Status&labelColor=%232396F3">
 
 
-## Itroduction
+## Introduction
 
 This repository contains my solution for the DEV-TO Clone Challenge. The challenge was to create a clone of the popular DEV community website (dev.to) using React and related technologies. In this repository, you will find the source code for the clone, along with the necessary configuration files.
 
 ## Challenge description
-The challenge required participants to build a web application that replicates the core functionality and design of the DEV community website using react vite next generation frontend tooling. The clone should include features such as user authentication, post creation, post edit, delete post, read psot. "TBD" and a responsive layout. Participants were encouraged to explore additional functionalities or improvements to showcase their skills.
+The challenge required participants to build a web application that replicates the core functionality and design of the DEV community website using react vite next generation frontend tooling. The clone should include features such as user authentication, post creation, post edit, delete post, read post. "TBD" and a responsive layout. Participants were encouraged to explore additional functionalities or improvements to showcase their skills.
 
 ## Solution Overview
 In this repository, It has been implemented a full-stack web application that closely resembles the DEV community website using React for the front-end and a Node.js backend with a RESTful API. The clone includes most of the core features found on the original website, such as:
