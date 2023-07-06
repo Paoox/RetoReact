@@ -84,12 +84,12 @@ In this repository, It has been implemented a full-stack web application that cl
 ## Getting Started
 To run the DEV-TO clone on your local machine, follow these steps:
 
-Clone the repository: git clone git@github.com:Paoox/RetoReact.git
-Navigate to the repository: cd RetoReact
-Install dependencies for the client: npm install
-Start the client and server concurrently: npm run dev
-Open your browser and visit the localhost direction to see the DEV-TO clone.
-Please note that you will need to configure your own MongoDB database connection in the server code or ask if the server of repository is on to use it.
+- Clone the repository: 'git clone git@github.com:Paoox/RetoReact.git'
+- Navigate to the repository: cd RetoReact
+- Install dependencies for the client: npm install
+- Start the client and server concurrently: npm run dev
+- Open your browser and visit the localhost direction to see the DEV-TO clone.
+- Please note that you will need to configure your own MongoDB database connection in the server code or ask if the server of repository is on to use it.
 
 ## Documentation
 For detailed instructions on how to use and navigate the DEV-TO clone, refer to the [documentation.](https://github.com/Paoox/RetoReact/blob/develop/Documentation.md)
