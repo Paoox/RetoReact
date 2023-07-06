@@ -12,15 +12,13 @@ export default function PostView() {
                 <img src="../src/assets/temporal-imgs/unicorn img.webp"></img>
               </div>
               <div>
-                <div>
-                  <a>
-                    <img
-                      src="https://randomuser.me/api/portraits/women/60.jpg"
-                      alt="imagen de usuario"
-                      className="rounded-full w-full"
-                    ></img>
-                  </a>
-                </div>
+                <a>
+                  <img
+                    src="https://randomuser.me/api/portraits/women/60.jpg"
+                    alt="imagen de usuario"
+                    className="rounded-full w-full"
+                  ></img>
+                </a>
               </div>
             </header>
             <div></div>
