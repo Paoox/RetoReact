@@ -31,14 +31,7 @@ To contribute to this project, follow these steps:
 
 ## Communication
 
-If you have any questions or need assistance, you can join our chat on [Slack](link-to-slack-channel) or reach out to [email@example.com](mailto:email@example.com).
+If you have any questions or need assistance, you can reach out to [email@example.com](pao.arreola.g@gmail.com).
 
-## Code of Conduct
-
-Please review our [Code of Conduct](link-to-code-of-conduct) to understand the expected behavior and standards for all contributors.
-
-## License
-
-By contributing to this project, you agree that your contributions will be licensed under the [MIT License](link-to-license).
 
 ## Acknowledgments
