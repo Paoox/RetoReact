@@ -31,7 +31,7 @@ To contribute to this project, follow these steps:
 
 ## Communication
 
-If you have any questions or need assistance, you can reach out to [email@example.com](pao.arreola.g@gmail.com).
+If you have any questions or need assistance, you can reach out to [pao.arreola.g@gmail.com](mailto:pao.arreola.g@gmail.com).
 
 
 ## Acknowledgments
