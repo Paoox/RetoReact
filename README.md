@@ -92,9 +92,9 @@ Open your browser and visit the localhost direction to see the DEV-TO clone.
 Please note that you will need to configure your own MongoDB database connection in the server code or ask if the server of repository is on to use it.
 
 ## Documentation
-For detailed instructions on how to use and navigate the DEV-TO clone, refer to the [documentation.]()
+For detailed instructions on how to use and navigate the DEV-TO clone, refer to the [documentation.](https://github.com/Paoox/RetoReact/blob/develop/Documentation.md)
 
 ## Collaboration
-If you would like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md.]() All contributions are welcome!
+If you would like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md.](https://github.com/Paoox/RetoReact/blob/develop/CONTRIBUTING.md) All contributions are welcome!
 ## License
 This project is licensed under kodemia license
