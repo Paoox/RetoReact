@@ -52,13 +52,13 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/bcrypt-v%205.1.0-gray?logoColor=white&label=Bcrypt&labelColor=%23E6484F">
 </a>
 <a href="https://www.mongodb.com/products/compass">
-
+    <img alt="Static Badge" src="https://img.shields.io/badge/GU--%20%2300a564?style=plastic&logoColor=white&label=Compass&labelColor=%20%2300a564">
 </a>
 <a href="https://www.npmjs.com/package/nodemon">
     <img alt="Static Badge" src="https://img.shields.io/badge/nodeamon-v%202.0.22-gray?logo=nodemon&logoColor=white&label=Nodemon&labelColor=%2376D04B">
 </a>
-<a href="">
-
+<a href="https://docs.insomnia.rest/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Insomia-API%20Rest-gray?logo=insomnia&logoColor=white&label=Insomnia&labelColor=%234000BF">
 </a>
 <img alt="Static Badge" src="https://img.shields.io/badge/status-Developing-gray?logoColor=white&label=Status&labelColor=%232396F3">
 
@@ -80,3 +80,21 @@ In this repository, It has been implemented a full-stack web application that cl
 - Like and bookmark functionality
 - The application utilizes modern web development practices and tools, including React hooks for state management, React Router for navigation.
 - On the backend, Express.js is used to handle the RESTful API, with a MongoDB database for storing user and post data.
+
+## Getting Started
+To run the DEV-TO clone on your local machine, follow these steps:
+
+Clone the repository: git clone git@github.com:Paoox/RetoReact.git
+Navigate to the repository: cd RetoReact
+Install dependencies for the client: npm install
+Start the client and server concurrently: npm run dev
+Open your browser and visit the localhost direction to see the DEV-TO clone.
+Please note that you will need to configure your own MongoDB database connection in the server code or ask if the server of repository is on to use it.
+
+## Documentation
+For detailed instructions on how to use and navigate the DEV-TO clone, refer to the [documentation.]()
+
+## Collaboration
+If you would like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md.]() All contributions are welcome!
+## License
+This project is licensed under kodemia license
