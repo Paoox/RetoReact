@@ -84,7 +84,7 @@ In this repository, It has been implemented a full-stack web application that cl
 ## Getting Started
 To run the DEV-TO clone on your local machine, follow these steps:
 
-- Clone the repository: 'git clone git@github.com:Paoox/RetoReact.git'
+- Clone the repository: "git clone git@github.com:Paoox/RetoReact.git"
 - Navigate to the repository: cd RetoReact
 - Install dependencies for the client: npm install
 - Start the client and server concurrently: npm run dev
